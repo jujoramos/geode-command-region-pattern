@@ -1,0 +1,14 @@
+out/
+build/
+dunit/
+tempora/
+build-eclipse/
+
+.idea/
+.gradle/
+.settings/
+
+*.iml
+.project
+.DS_store
+.classpath
