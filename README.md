@@ -18,4 +18,4 @@ the `geode-dunit` module.
 - Check out this repository.
 - Import the project into your favourite IDE.
 - Add your custom implementations of the `DistributedCommand` class.
-- Test your implementation in a multi-site deployments by extending the `AbstractDistributedCommandTest` class.
+- Test your implementation in a multi-site deployment by extending the `AbstractDistributedCommandTest` class.
